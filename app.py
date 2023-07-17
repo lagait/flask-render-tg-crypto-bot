@@ -19,7 +19,7 @@ def notify():
     if len(logs) == 0:
         print("Empty logs array received, skipping")
     else:
-        print(logs)
+        # print(logs)
 
         category = ""
         try:
